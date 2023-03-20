@@ -5,7 +5,7 @@
 
 int main() {
 
-    Skup s("idegas");
+    /*Skup s("Zdravo svete");
     char p = 'm';
     s += p;
 
@@ -72,6 +72,7 @@ int main() {
     -strofa;
 
     cout << strofa << endl;
+     */
 
     return 0;
 }
